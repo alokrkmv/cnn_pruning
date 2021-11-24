@@ -19,5 +19,5 @@
 
 ## Architecture of the System.
 
-Please follow the [documentation](https://github.com/cs532-2021-fall/map-reduce-status_200/blob/main/Documentation.pdf) provided to understand the architecture of the system.
+Please follow the [documentation](https://github.com/cs532-2021-fall/cnn-pruning-status_200/blob/main/Project2_documentation.pdf) provided to understand the architecture of the system.
 
